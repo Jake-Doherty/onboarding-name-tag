@@ -7,4 +7,4 @@ button.addEventListener('click', () => {
     nameInput.value = '';
 });
 
-console.log(nameDisplay);
+console.log(nameInput);
